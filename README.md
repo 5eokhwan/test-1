@@ -31,4 +31,4 @@ private lateinit var 여러줄 : String
 ```
 열두번째는 [링크](https://www.naver.com/, "네이버임 ㅎ")입니다.
 
-![자연사진](.naturePic/nature.jpg)
+![자연사진](./naturePic/nature.jpg)
